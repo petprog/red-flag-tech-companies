@@ -15,6 +15,6 @@ We welcome contributions from anyone with reliable information on tech companies
 ## Disclaimer
 The information provided in this repository is based on publicly available sources and contributions from the community. While we strive for accuracy, we encourage users to conduct their research and exercise personal judgment when evaluating potential employers.
 
-## ========================= HERE'S THE LIST =================================
+## ============== HERE'S THE LIST =================
 - BOMACH GROUP OF COMPANY, ENUGU NIGERIA.
 - HELLOME LIMITED, LAGOS NIGERIA.
