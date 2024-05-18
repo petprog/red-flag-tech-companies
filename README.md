@@ -1,5 +1,5 @@
 ## Project Description
-Welcome to the Red Flag Tech Comapnies repository. This project aims to provide a comprehensive list of tech companies that potential employees and collaborators should approach with caution. Whether due to unethical practices, poor workplace environments, or negative employee reviews, the companies listed here have raised red flags that warrant careful consideration.
+Welcome to the Red Flag Tech Companies repository. This project aims to provide a comprehensive list of tech companies that potential employees and collaborators should approach with caution. Whether due to unethical practices, poor workplace environments, or negative employee reviews, the companies listed here have raised red flags that warrant careful consideration.
 
 ## Objectives
 - Transparency: Shine a light on tech companies with questionable practices or reputations.
